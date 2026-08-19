@@ -34,7 +34,11 @@
 
 ## 📦 Proyectos
 
-*Los repositorios se irán publicando aquí a medida que se suban.*
+| Proyecto | Descripción |
+|----------|-------------|
+| 📱 [**OCR-IT-Tools**](https://github.com/ocritsupport/OCR-IT-Tools) | Caja de herramientas de red para Android: soporte IT en campo |
+
+*Más repositorios se irán publicando aquí a medida que se suban.*
 
 ---
 

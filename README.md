@@ -37,6 +37,8 @@
 | Proyecto | Descripción |
 |----------|-------------|
 | 📱 [**OCR-IT-Tools**](https://github.com/ocritsupport/OCR-IT-Tools) | Caja de herramientas de red para Android: soporte IT en campo |
+| 🔧 [**OCR-Mikrotik-Clonner**](https://github.com/ocritsupport/OCR-Mikrotik-Clonner) | Clona un MikroTik RouterOS entero: configuración, backup y certificados |
+| 🏠 [**OCR-Domoticz-Client**](https://github.com/ocritsupport/OCR-Domoticz-Client) | Cliente Domoticz para Android por Tailscale y otros túneles VPN |
 
 *Más repositorios se irán publicando aquí a medida que se suban.*
 

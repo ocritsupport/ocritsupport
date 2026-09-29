@@ -26,6 +26,8 @@
 |------|-------------|
 | 🖥️ **Windows** | VB.NET (WinForms), PowerShell, OpenVPN, WMI, cmdkey |
 | 🌐 **Web** | Next.js, React, Prisma, SQLite, Tailwind CSS |
+| 📱 **Android** | Kotlin, Java, Android SDK, VPNService |
+| 🚗 **Automoción** | OBD-II/UDS, KKL (VAG), TPMS RF 433 MHz, ESP32, CC1101 |
 | 🔐 **Redes** | MikroTik RouterOS, Tailscale, OpenVPN, VPN site-to-site |
 | 🗄️ **Infraestructura** | Docker, Synology NAS, MariaDB, SQLite |
 | 🤖 **IA** | DeepSeek, Llama, Ollama, integración de asistentes IA |
@@ -36,9 +38,12 @@
 
 | Proyecto | Descripción |
 |----------|-------------|
+| 🚗 [**OCR-IDS-Tools**](https://github.com/ocritsupport/OCR-IDS-Tools) | Suite de diagnóstico de taller: OBD-II/UDS multimarca, cuadros VAG por KKL y TPMS. Instalador para Windows con canal de actualizaciones |
+| 🔌 [**OCR-Probador-Puertos-COM**](https://github.com/ocritsupport/OCR-Probador-Puertos-COM) | Identifica los puertos COM de un PC con un útil de loopback y comprueba la lectura de básculas por puerto serie. Un solo EXE para Windows |
 | 📱 [**OCR-IT-Tools**](https://github.com/ocritsupport/OCR-IT-Tools) | Caja de herramientas de red para Android: soporte IT en campo |
-| 🔧 [**OCR-Mikrotik-Clonner**](https://github.com/ocritsupport/OCR-Mikrotik-Clonner) | Clona un MikroTik RouterOS entero: configuración, backup y certificados |
-| 🏠 [**OCR-Domoticz-Client**](https://github.com/ocritsupport/OCR-Domoticz-Client) | Cliente Domoticz para Android por Tailscale y otros túneles VPN |
+| 🏠 [**OCR-Domoticz-Client**](https://github.com/ocritsupport/OCR-Domoticz-Client) | Cliente Domoticz para Android por Tailscale y otros túneles VPN, con autoconexión del túnel al abrir la app |
+| 🎲 [**OCR-Family-Games**](https://github.com/ocritsupport/OCR-Family-Games) | Doce juegos clásicos para Android (tablet y teléfono) sin anuncios, sin cuentas y sin recogida de datos. Pensados para personas mayores |
+| 🔧 [**OCR-Mikrotik-Clonner**](https://github.com/ocritsupport/OCR-Mikrotik-Clonner) | Clona un MikroTik RouterOS entero (configuración, backup y certificados) y lo despliega en otro equipo. Un solo EXE para Windows |
 
 *Más repositorios se irán publicando aquí a medida que se suban.*
 

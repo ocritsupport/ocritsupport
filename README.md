@@ -44,6 +44,7 @@
 | 🏠 [**OCR-Domoticz-Client**](https://github.com/ocritsupport/OCR-Domoticz-Client) | Cliente Domoticz para Android por Tailscale y otros túneles VPN, con autoconexión del túnel al abrir la app |
 | 🎲 [**OCR-Family-Games**](https://github.com/ocritsupport/OCR-Family-Games) | Doce juegos clásicos para Android (tablet y teléfono) sin anuncios, sin cuentas y sin recogida de datos. Pensados para personas mayores |
 | 🔧 [**OCR-Mikrotik-Clonner**](https://github.com/ocritsupport/OCR-Mikrotik-Clonner) | Clona un MikroTik RouterOS entero (configuración, backup y certificados) y lo despliega en otro equipo. Un solo EXE para Windows |
+| 📋 [**OCR-Portapapeles**](https://github.com/ocritsupport/OCR-Portapapeles) | Tus enlaces, contraseñas de wifi, plantillas y comandos de siempre guardados junto a la hora de Windows: un clic (o Ctrl+Alt+P) y quedan en el portapapeles. Cifrados con contraseña. Un solo EXE para Windows |
 
 *Más repositorios se irán publicando aquí a medida que se suban.*
 

@@ -4,7 +4,7 @@
 
 ### Soporte técnico · Desarrollo de herramientas · Automatización
 
-[![Website](https://img.shields.io/badge/Web-OCR_IT_Support-0c1a28?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ocritsupport.surge.sh)
+[![Website](https://img.shields.io/badge/Web-OCR_IT_Support-0c1a28?style=for-the-badge&logo=googlechrome&logoColor=white)](https://itsupport.grupoocr.com)
 [![Email](https://img.shields.io/badge/Email-Contacto-0c1a28?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ocritsupport@gmail.com)
 [![Tailscale](https://img.shields.io/badge/Infraestructura-NAS_+_Tailscale-0c1a28?style=for-the-badge&logo=tailscale&logoColor=white)](https://tailscale.com)
 
@@ -64,7 +64,7 @@
 
 ## 📫 Contacto
 
-- 🌐 Web: [ocritsupport.surge.sh](https://ocritsupport.surge.sh)
+- 🌐 Web: [itsupport.grupoocr.com](https://itsupport.grupoocr.com)
 - ✉️ Email: [ocritsupport@gmail.com](mailto:ocritsupport@gmail.com)
 
 <div align="center">
